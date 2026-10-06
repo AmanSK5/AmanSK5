@@ -8,6 +8,8 @@
 
 I build practical tools around problems I run into in the real world — from discovering Shadow AI and securing cloud environments to making Kubernetes upgrades slightly less painful.
 
+[**Launch my interactive README →**](https://amansk5.github.io/Aman-Pages/)
+
 [![Website](https://img.shields.io/badge/amansk.co-visit-111827?style=for-the-badge\&logo=safari\&logoColor=white)](https://amansk.co/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AmanSK5-111827?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/amansk5)
 
